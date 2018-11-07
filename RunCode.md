@@ -4,7 +4,8 @@
 
 1. Open the Unity project
 
-Under "Academy," set "Brain type" to "External." This is the Red circle
+Under "Academy," set "Brain type" to "External." This is the part where Red circle is.
+![Alt text](/project_images/1.png?raw=true "Title")
 
 2. Open "Anaconda Prompt"
 
