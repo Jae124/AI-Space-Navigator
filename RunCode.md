@@ -3,7 +3,7 @@
 ### Step-by-Step Process
 
 1. Open the Unity project
-Under "Academy," set "Brain type" to "External." This is the Red circle.
+Under "Academy," set "Brain type" to "External." This is the Red circle
 
 2. Open "Anaconda Prompt"
 This is the screen you will see when first opening the prompt. After opening the command line prompt, use the cd command to move to the file folder where the Unity project is in.
